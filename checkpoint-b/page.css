@@ -1,0 +1,12 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f4f7;
+}
+
+.goods-item {
+  padding: 12px;
+  color: #263238;
+  background-color: #ffffff;
+  margin-bottom: 8px;
+}
